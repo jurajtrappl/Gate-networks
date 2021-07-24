@@ -1,8 +1,4 @@
-# Zadanie
-
-[[_TOC_]]
-
-# Hradlové siete
+# Gate networks
 
 ## Základný popis
 
