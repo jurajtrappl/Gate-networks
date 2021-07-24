@@ -1,0 +1,8 @@
+gate and
+inputs i0 i1
+outputs o
+1 1 1
+end
+
+and
+inputs i0 i1

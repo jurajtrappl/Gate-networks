@@ -1,0 +1,12 @@
+gate and
+inputs i0 i1
+outputs o
+1 1 1
+end
+
+network
+inputs i
+outputs o
+gate and and
+and.i0->i
+end

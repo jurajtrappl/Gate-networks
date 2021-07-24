@@ -1,0 +1,16 @@
+gate or
+inputs i0 i1
+outputs o
+0 1 1
+1 0 1
+1 1 1
+end
+
+network
+inputs a b
+outputs a|b
+gate a1 or
+a1.i0->a
+a1.i1->b
+a|b->a1.o
+end

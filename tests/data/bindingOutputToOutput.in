@@ -1,0 +1,19 @@
+gate and
+inputs i0 i1
+outputs o
+1 1 1
+end
+
+gate xor
+inputs i0 i1
+outputs o
+1 0 1
+0 1 1
+end
+
+network
+inputs i0 i1
+outputs o0 o1
+gate and and
+gate xor xor
+and.o->xor.o

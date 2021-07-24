@@ -1,0 +1,5 @@
+gate and3
+inputs i0 i1
+outputs o0 o0
+1 1 1 1
+end
